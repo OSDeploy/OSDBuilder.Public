@@ -1,0 +1,21 @@
+{
+    "Version":  "19.3.10.0",
+    "PSGallery":
+    [
+        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.10.0"
+    ],
+    "NewLinks":
+    [
+        "https://www.osdeploy.com/osdbuilder/home"
+    ],
+    "HelpfulLinks":
+    [
+        "https://www.osdeploy.com/osdbuilder/release-information",
+        "https://www.osdeploy.com/osdbuilder/docs/basics",
+        "https://www.osdeploy.com/osdbuilder/docs/functions"
+    ],
+    "LatestUpdates":
+    [
+        "19.3.10.0 OSDBuilder Release"
+    ]
+}
