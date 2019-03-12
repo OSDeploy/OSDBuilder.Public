@@ -1,8 +1,8 @@
 {
-    "Version":  "19.3.11.0",
+    "Version":  "19.3.11.1",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.11.0"
+        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.11.1"
     ],
     "NewLinks":
     [
@@ -16,6 +16,6 @@
     ],
     "LatestUpdates":
     [
-        "19.3.11 OSDBuilder Beta"
+        "19.3.11 BETA OSDBuilder"
     ]
 }
