@@ -1,8 +1,8 @@
 {
-    "Version":  "19.3.14.0",
+    "Version":  "19.3.14.1",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.3.14.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.3.14.1"
     ],
     "NewLinks":
     [
