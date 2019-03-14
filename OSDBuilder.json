@@ -2,7 +2,7 @@
     "Version":  "19.3.14.0",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.14.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.3.14.0"
     ],
     "NewLinks":
     [
@@ -10,10 +10,10 @@
     ],
     "HelpfulLinks":
     [
-        "http://www.osdbuilder.com",
-        "http://www.osdbuilder.com/releases",
-        "http://www.osdbuilder.com/docs/basics",
-        "http://www.osdbuilder.com/docs/functions"
+        "http://osdbuilder.com",
+        "http://osdbuilder.com/releases",
+        "http://osdbuilder.com/docs/basics",
+        "http://osdbuilder.com/docs/functions"
     ],
     "LatestUpdates":
     [
