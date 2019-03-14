@@ -1,21 +1,23 @@
 {
-    "Version":  "19.3.12.0",
+    "Version":  "19.3.14.0",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.12.0"
+        "https://www.powershellgallery.com/packages/OSDBuilder/19.3.14.0"
     ],
     "NewLinks":
     [
-        "https://www.osdbuilder.com/releases"
+        "http://osdbuilder.com/docs/legacy-operating-systems"
     ],
     "HelpfulLinks":
     [
-        "https://www.osdbuilder.com",
-        "https://www.osdbuilder.com/docs/basics",
-        "https://www.osdbuilder.com/docs/functions"
+        "http://www.osdbuilder.com",
+        "http://www.osdbuilder.com/releases",
+        "http://www.osdbuilder.com/docs/basics",
+        "http://www.osdbuilder.com/docs/functions"
     ],
     "LatestUpdates":
     [
+        "19.3.14 Minor Bug Fixes",
         "19.3.12 Patch Tuesday Official"
     ]
 }
