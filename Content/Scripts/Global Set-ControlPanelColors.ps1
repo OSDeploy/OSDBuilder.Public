@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Global Set-ControlPanelColors.ps1
-#   Version 19.1.22
+#   Version 19.3.15
 #
 #   Sets the default colors for the Desktop Background
 #======================================================================================

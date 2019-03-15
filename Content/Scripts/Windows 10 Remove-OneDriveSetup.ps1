@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Windows 10 Remove-OneDriveSetup.ps1
-#	Version 19.1.18
+#	Version 19.3.15
 #======================================================================================
 #   Remove Files
 #======================================================================================

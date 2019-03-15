@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Global Set-TimeZone CentralStandardTime.ps1
-#   Version 19.1.22
+#   Version 19.3.15
 #
 #   Displays Variables and Prompts for Enter
 #   Set Time Zone to Central Standard Time for Install.wim

@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Global Add-DesktopIcons.ps1
-#   Version 19.1.22
+#   Version 19.3.15
 #
 #   Adds Standard Desktop Icons (This PC, Network, Recycle Bin, Control Panel)
 #======================================================================================

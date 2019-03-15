@@ -1,12 +1,12 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Windows 10 x64 1809 Add-CapabilityFOD.ps1
-#   Version 19.1.23
+#   Version 19.3.15
 #   https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-non-language-fod
 #======================================================================================
-$FODContent = "$OSBuilderContent\IsoExtract\Windows 10 1809 FOD x64"
+$FODContent = "$OSDBuilderContent\IsoExtract\Windows 10 1809 FOD x64"
 $CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-FOD.log"
 
 Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray

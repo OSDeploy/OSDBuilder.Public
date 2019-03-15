@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Windows 7 Add-OEMBackground.ps1
-#   Version 19.1.18
+#   Version 19.3.15
 #
 #   Requires ExtraFiles to add "C:\Windows\System32\oobe\info\backgrounds\backgroundDefault.jpg"
 #======================================================================================

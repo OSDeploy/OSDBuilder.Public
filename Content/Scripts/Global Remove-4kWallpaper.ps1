@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Global Remove-4kWallpaper.ps1
-#   Version 19.1.22
+#   Version 19.3.15
 #
 #   Removes 4K Wallpaper
 #======================================================================================

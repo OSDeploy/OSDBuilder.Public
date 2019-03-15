@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Windows 10 Disable-EdgeShortcut.ps1
-#   Version 19.1.22
+#   Version 19.3.15
 #
 #   Disables the new Edge Shortcut Creation on the Desktop
 #======================================================================================

@@ -1,9 +1,9 @@
 #   David Segura
 #   http://osdeploy.com
 #
-#   OSBuilder Script
+#   OSDBuilder Script
 #   Get-Variables.ps1
-#	Version 19.1.18
+#	Version 19.3.15
 #
 #   Displays Variables and Prompts for Enter
 #   Useful for Debugging
