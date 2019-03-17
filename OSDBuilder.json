@@ -1,12 +1,12 @@
 {
-    "Version":  "19.3.15.0",
+    "Version":  "19.3.17.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.3.15.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.3.17.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/content/onedrive"
+        "https://www.osdeploy.com/osdbuilder/docs/basics/create-a-vhd"
     ],
     "HelpfulLinks":
     [
@@ -17,6 +17,7 @@
     ],
     "LatestUpdates":
     [
+        "19.3.17 New-OSDBuilderVHD",
         "19.3.15 Get-DownOSDBuilder and OneDriveSetup.exe",
         "19.3.14 Bug Fixes",
         "19.3.12 Patch Tuesday Official"
