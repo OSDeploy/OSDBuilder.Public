@@ -1,8 +1,7 @@
-{
-    "Version":  "19.3.17.0",
+{    "Version":  "19.3.18.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.3.17.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.3.18.0"
     ],
     "NewLinks":
     [
@@ -17,6 +16,7 @@
     ],
     "LatestUpdates":
     [
+        "19.3.18 Minor Cosmetic Fixes",
         "19.3.17 New-OSDBuilderVHD",
         "19.3.15 Get-DownOSDBuilder and OneDriveSetup.exe",
         "19.3.14 Bug Fixes",
