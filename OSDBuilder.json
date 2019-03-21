@@ -1,11 +1,13 @@
-{    "Version":  "19.3.18.0",
+{    "Version":  "19.3.21.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.3.18.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.3.21.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/basics/create-a-vhd"
+        "http://osdbuilder.com/docs/basics/new-osbuildtask",
+        "http://osdbuilder.com/docs/basics/new-osbuild",
+        "http://osdbuilder.com/docs/basics/content"
     ],
     "HelpfulLinks":
     [
@@ -16,6 +18,7 @@
     ],
     "LatestUpdates":
     [
+        "19.3.21 OSBuild Task Updates",
         "19.3.18 Minor Cosmetic Fixes",
         "19.3.17 New-OSDBuilderVHD",
         "19.3.15 Get-DownOSDBuilder and OneDriveSetup.exe",
