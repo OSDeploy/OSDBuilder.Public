@@ -1,11 +1,11 @@
-{    "Version":  "19.4.2.0",
+{    "Version":  "19.4.3.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.4.2.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.4.3.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/basics/content"
+        "http://osdbuilder.com/docs/basics/import-osmedia/feature-update-vl-media"
     ],
     "HelpfulLinks":
     [
@@ -16,6 +16,7 @@
     ],
     "LatestUpdates":
     [
+        "19.4.3 ESD Download and fixes",
         "19.4.2 New Updates"
     ]
 }
