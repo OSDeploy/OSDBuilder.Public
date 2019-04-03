@@ -1,12 +1,10 @@
-{    "Version":  "19.3.27.0",
+{    "Version":  "19.4.2.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.3.27.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.4.2.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/basics/new-osbuildtask",
-        "http://osdbuilder.com/docs/basics/new-osbuild",
         "http://osdbuilder.com/docs/basics/content"
     ],
     "HelpfulLinks":
@@ -18,13 +16,6 @@
     ],
     "LatestUpdates":
     [
-        "19.3.27 OSBuilds bug fix",
-        "19.3.26 OSMedia improvements",
-        "19.3.21 OSBuild Task Updates",
-        "19.3.18 Minor Cosmetic Fixes",
-        "19.3.17 New-OSDBuilderVHD",
-        "19.3.15 Get-DownOSDBuilder and OneDriveSetup.exe",
-        "19.3.14 Bug Fixes",
-        "19.3.12 Patch Tuesday Official"
+        "19.4.2 New Updates"
     ]
 }
