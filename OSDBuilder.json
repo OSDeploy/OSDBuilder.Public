@@ -1,7 +1,7 @@
-{    "Version":  "19.4.3.1",
+{    "Version":  "19.4.9.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.4.3.1"
+        "http://powershellgallery.com/packages/OSDBuilder/19.4.9.0"
     ],
     "NewLinks":
     [
@@ -16,6 +16,7 @@
     ],
     "LatestUpdates":
     [
+        "19.4.9 ESD Catalog Updates Only",
         "19.4.3 ESD Download and fixes",
         "19.4.2 New Updates"
     ]
