@@ -1,11 +1,14 @@
-{    "Version":  "19.4.9.0",
+{    "Version":  "19.4.11.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.4.9.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.4.11.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/basics/import-osmedia/feature-update-vl-media"
+        "http://osdbuilder.com/docs/guides/windows-multilang",
+        "http://osdbuilder.com/docs/basics/content/adk",
+        "http://osdbuilder.com/docs/basics/content/dart"
+
     ],
     "HelpfulLinks":
     [
@@ -16,6 +19,7 @@
     ],
     "LatestUpdates":
     [
+        "19.4.11 Task Edit, MultiLang, and 1903 Updates",
         "19.4.9 Catalog Updates Only",
         "19.4.3 ESD Download and fixes",
         "19.4.2 New Updates"
