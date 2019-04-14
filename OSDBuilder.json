@@ -1,28 +1,29 @@
-{    "Version":  "19.4.12.0",
+{    "Version":  "19.4.14.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.4.12.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.4.14.0"
     ],
     "NewLinks":
     [
-        "http://osdbuilder.com/docs/guides/windows-multilang",
-        "http://osdbuilder.com/docs/basics/content/adk",
-        "http://osdbuilder.com/docs/basics/content/dart"
+        "osdbuilder.com/docs/basics/new-osbuildtask",
+        "osdbuilder.com/docs/guides/windows-multilang",
+        "osdbuilder.com/docs/basics/content/adk",
+        "osdbuilder.com/docs/basics/content/dart"
 
     ],
     "HelpfulLinks":
     [
-        "http://osdbuilder.com",
-        "http://osdbuilder.com/releases",
-        "http://osdbuilder.com/docs/basics",
-        "http://osdbuilder.com/docs/functions"
+        "osdbuilder.com",
+        "osdbuilder.com/releases",
+        "osdbuilder.com/docs/basics",
+        "osdbuilder.com/docs/guides",
+        "osdbuilder.com/docs/functions"
     ],
     "LatestUpdates":
     [
+        "19.4.14 Corrected issue with Builds not being renamed",
         "19.4.12 Corrected issue with Builds not being renamed",
         "19.4.11 Task Edit, MultiLang, and 1903 Updates",
-        "19.4.9 Catalog Updates Only",
-        "19.4.3 ESD Download and fixes",
-        "19.4.2 New Updates"
+        "19.4.9 April Patches Only"
     ]
 }
