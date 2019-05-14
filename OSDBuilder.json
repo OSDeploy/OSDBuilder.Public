@@ -1,7 +1,7 @@
-{    "Version":  "19.5.7.0",
+{    "Version":  "19.5.14.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.5.7.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.5.14.0"
     ],
     "NewLinks":
     [
@@ -21,9 +21,9 @@
     ],
     "LatestUpdates":
     [
+        "19.5.14 Updates Only - Windows 10 1809 LCU, Server 2019 LCU, Windows 10 1903 SSU LCU",
         "19.5.7 Updates Only - Windows 10 1809 LCU, Server 2019 LCU, Windows 10 1903 SSU LCU",
         "19.4.14 Dynamic Updates for Windows 10 1703, 1709, 1803",
-        "19.4.14 Task now uses SaveAs instead of Kind",
-        "19.4.12 Corrected issue with Builds not being renamed"
+        "19.4.14 Task now uses SaveAs instead of Kind"
     ]
 }
