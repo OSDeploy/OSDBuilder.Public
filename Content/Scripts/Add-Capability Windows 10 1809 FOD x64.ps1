@@ -1,19 +1,17 @@
+#======================================================================================
 #   David Segura
 #   http://osdeploy.com
 #
 #   OSDBuilder Script
-#   Windows 10 x86 1809 Add-CapabilityFOD.ps1
-#   Version 19.3.15
+#   Version 19.5.31
+#
+#   Requires IsoExtract Features on Demand in FODContent
+#
 #   https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-non-language-fod
 #======================================================================================
-$FODContent = "$OSDBuilderContent\IsoExtract\Windows 10 1809 FOD x86"
-$CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-FOD.log"
-
-Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray
-Write-Host "FODContent: $FODContent" -ForegroundColor DarkGray
-Write-Host "CurrentLog: $CurrentLog" -ForegroundColor DarkGray
-
-$FOD = @(
+$FODContent = "$OSDBuilderContent\IsoExtract\Windows 10 1809 FOD x64"
+#   Comment out items that are not needed
+$FODs = @(
     'Microsoft.Onecore.StorageManagement~~~~0.0.1.0'    #Windows Storage Management
     'Microsoft.Windows.StorageManagement~~~~0.0.1.0'    #Windows Storage Management
     'RasCMAK.Client~~~~0.0.1.0'                         #RAS Connection Manager Administration Kit (CMAK)
@@ -23,7 +21,12 @@ $FOD = @(
     'WMI-SNMP-Provider.Client~~~~0.0.1.0'               #SNMP WMI Provider
 )
 
-foreach ($Item in $FOD) {
-    Write-Host "$Item" -ForegroundColor DarkGray
-    Add-WindowsCapability -Path "$MountDirectory" -Name "$Item" -Source "$FODContent" -LogPath "$CurrentLog" | Out-Null
+$CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-FOD.log"
+Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray
+Write-Host "FODContent: $FODContent" -ForegroundColor DarkGray
+Write-Host "CurrentLog: $CurrentLog" -ForegroundColor DarkGray
+
+foreach ($FOD in $FODs) {
+    Write-Host "$FOD" -ForegroundColor DarkGray
+    Add-WindowsCapability -Path "$MountDirectory" -Name "$FOD" -Source "$FODContent" -LogPath "$CurrentLog" | Out-Null
 }

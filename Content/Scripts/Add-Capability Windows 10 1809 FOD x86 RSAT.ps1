@@ -1,19 +1,17 @@
+#======================================================================================
 #   David Segura
 #   http://osdeploy.com
 #
 #   OSDBuilder Script
-#   Windows 10 x86 1809 Add-CapabilityRSAT.ps1
-#	Version 19.3.15
+#   Version 19.5.31
+#
+#   Requires IsoExtract Features on Demand in FODContent
+#
 #   https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-non-language-fod
 #======================================================================================
 $FODContent = "$OSDBuilderContent\IsoExtract\Windows 10 1809 FOD x86"
-$CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-RSAT.log"
-
-Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray
-Write-Host "FODContent: $FODContent" -ForegroundColor DarkGray
-Write-Host "CurrentLog: $CurrentLog" -ForegroundColor DarkGray
-
-$RSAT = @(
+#   Comment out items that are not needed
+$FODs = @(
     'Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0'
     'Rsat.BitLocker.Recovery.Tools~~~~0.0.1.0'
     'Rsat.CertificateServices.Tools~~~~0.0.1.0'
@@ -37,7 +35,12 @@ $RSAT = @(
     'Rsat.SystemInsights.Management.Tools~~~~0.0.1.0'
 )
 
-foreach ($Item in $RSAT) {
-    Write-Host "$Item" -ForegroundColor DarkGray
-    Add-WindowsCapability -Path "$MountDirectory" -Name "$Item" -Source "$FODContent" -LogPath "$CurrentLog" | Out-Null
+$CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-FOD.log"
+Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray
+Write-Host "FODContent: $FODContent" -ForegroundColor DarkGray
+Write-Host "CurrentLog: $CurrentLog" -ForegroundColor DarkGray
+
+foreach ($FOD in $FODs) {
+    Write-Host "$FOD" -ForegroundColor DarkGray
+    Add-WindowsCapability -Path "$MountDirectory" -Name "$FOD" -Source "$FODContent" -LogPath "$CurrentLog" | Out-Null
 }
