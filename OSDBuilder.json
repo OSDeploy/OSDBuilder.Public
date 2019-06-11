@@ -1,7 +1,7 @@
-{   "Version":  "19.6.3.0",
+{   "Version":  "19.6.11.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.6.3.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.6.11.0"
     ],
     "NewLinks":
     [
@@ -21,10 +21,7 @@
     ],
     "LatestUpdates":
     [
-        "19.6.3 - Win10 1903 New Updates and WinPE CU Restored.  Adding TimeStamp and Duration to Console Output",
-        "19.5.22 Disabled installation of LCU in Windows 10 1903 WinPE",
-        "19.5.20 Updates Only - Windows 10, Windows Server 2016, Windows Server 2019",
-        "19.5.14 Updates Only - Windows 10 1809 LCU, Server 2019 LCU, Windows 10 1903 SSU LCU",
-        "19.5.7 Updates Only - Windows 10 1809 LCU, Server 2019 LCU, Windows 10 1903 SSU LCU"
+        "19.6.11 Patch Tuesday",
+        "19.6.3 Win10 1903 New Updates and WinPE CU Restored.  Adding TimeStamp and Duration to Console Output"
     ]
 }
