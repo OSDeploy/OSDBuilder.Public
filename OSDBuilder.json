@@ -1,7 +1,7 @@
-{   "Version":  "19.7.29.0",
+{   "Version":  "19.8.13.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.7.29.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.8.13.0"
     ],
     "NewLinks":
     [
@@ -19,6 +19,6 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
-        "19.7.29: Windows 10 1903 SSU LCU"
+        "19.8.13: Patch Tuesday"
     ]
 }
