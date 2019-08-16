@@ -1,7 +1,7 @@
-{   "Version":  "19.8.13.0",
+{   "Version":  "19.8.15.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.8.13.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.8.15.0"
     ],
     "NewLinks":
     [
@@ -19,6 +19,7 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.8.15: URL Changes",
         "19.8.13: Patch Tuesday"
     ]
 }
