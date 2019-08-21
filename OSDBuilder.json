@@ -1,7 +1,7 @@
-{   "Version":  "19.8.19.0",
+{   "Version":  "19.8.21.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.8.19.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.8.21.0"
     ],
     "NewLinks":
     [
@@ -19,6 +19,7 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.8.21: Net Framework Cumulative Updates and Windows 10 1803 Updates",
         "19.8.19: LCU Windows 10 1607 1703 1709 1809",
         "19.8.19: LCU Windows Server 2019",
         "19.8.15: URL Changes",
