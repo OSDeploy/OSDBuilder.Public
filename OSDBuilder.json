@@ -1,7 +1,7 @@
-{   "Version":  "19.9.6.0",
+{   "Version":  "19.9.10.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.9.6.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.9.10.0"
     ],
     "NewLinks":
     [
@@ -19,14 +19,8 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.9.10 Patch Tuesday Updates",
         "19.9.6: DotNet Framework 4.8 Update",
-        "19.9.1: Win10 1903 Updates",
-        "19.8.27: Update-OSMedia Parameter issue resolved, added 1809 DU KB4506578",
-        "19.8.22: Resolved Win10 1903 issue and new Import-OSMedia location",
-        "19.8.21: Net Framework Cumulative Updates and Windows 10 1803 Updates",
-        "19.8.19: LCU Windows 10 1607 1703 1709 1809",
-        "19.8.19: LCU Windows Server 2019",
-        "19.8.15: URL Changes",
-        "19.8.13: Patch Tuesday"
+        "19.9.1: Win10 1903 Updates"
     ]
 }
