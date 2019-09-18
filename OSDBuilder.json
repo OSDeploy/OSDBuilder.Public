@@ -1,24 +1,23 @@
-{   "Version":  "19.9.10.0",
+{   "Version":  "19.9.12.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.9.10.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.9.12.0"
     ],
     "NewLinks":
     [
-        "osdbuilder.com/docs/basics/new-osbuildtask"
+        "osdbuilder.osdeploy.com/docs/multilang"
 
     ],
     "HelpfulLinks":
     [
-        "osdbuilder.com",
-        "osdbuilder.com/releases",
-        "osdbuilder.com/docs/basics",
-        "osdbuilder.com/docs/guides",
-        "osdbuilder.com/docs/functions"
+        "osdbuilder.osdeploy.com/release",
+        "osdbuilder.osdeploy.com/docs/basics",
+        "osdbuilder.osdeploy.com/module/functions"
     ],
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.9.12 OSDSUS integration",
         "19.9.10 Patch Tuesday Updates",
         "19.9.6: DotNet Framework 4.8 Update",
         "19.9.1: Win10 1903 Updates"
