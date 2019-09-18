@@ -18,8 +18,6 @@
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
         "19.9.12 OSDSUS integration",
-        "19.9.10 Patch Tuesday Updates",
-        "19.9.6: DotNet Framework 4.8 Update",
-        "19.9.1: Win10 1903 Updates"
+        "19.9.10 Patch Tuesday Updates"
     ]
 }
