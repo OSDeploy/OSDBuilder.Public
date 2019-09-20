@@ -1,11 +1,13 @@
-{   "Version":  "19.9.12.0",
+{   "Version":  "19.9.20.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.9.12.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.9.20.0"
     ],
     "NewLinks":
     [
-        "osdbuilder.osdeploy.com/docs/multilang"
+        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/basic-parameters",
+        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/content-parameters",
+        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/winpe-content-parameters"
 
     ],
     "HelpfulLinks":
@@ -17,6 +19,7 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.9.20 Added Windows Server 2019 1903",
         "19.9.12 OSDSUS integration",
         "19.9.10 Patch Tuesday Updates"
     ]
