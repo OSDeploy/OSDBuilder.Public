@@ -1,7 +1,7 @@
-{   "Version":  "19.9.20.0",
+{   "Version":  "19.10.13.2",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.9.20.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.10.13.2"
     ],
     "NewLinks":
     [
@@ -19,6 +19,7 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDBuilder/master/UPDATES.md",
+        "19.10.13.2 Lots of new changes for MMSJazz.  Go Astros!",
         "19.9.20 Added Windows Server 2019 1903",
         "19.9.12 OSDSUS integration",
         "19.9.10 Patch Tuesday Updates"
