@@ -5,9 +5,9 @@
     ],
     "NewLinks":
     [
-        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/basic-parameters",
-        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/content-parameters",
-        "https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/winpe-content-parameters"
+        "https://osdbuilder.osdeploy.com/docs/osimport/import-automation",
+        "https://osdbuilder.osdeploy.com/docs/osimport/import-quickupdate",
+        "https://osdbuilder.osdeploy.com/docs/osimport/import-quickbuild"
 
     ],
     "HelpfulLinks":
@@ -19,10 +19,8 @@
     "LatestUpdates":
     [
         "https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md",
-        "19.10.18 Windows 10 1909 Support!",
-        "19.10.13.2 Lots of new changes for MMSJazz.  Go Astros!",
-        "19.9.20 Added Windows Server 2019 1903",
-        "19.9.12 OSDSUS integration",
-        "19.9.10 Patch Tuesday Updates"
+        "19.10.21 MMSJazz Hidden Features Part 2 - GitHub Release",
+        "19.10.18 Windows 10 1909 Support",
+        "19.10.13 MMSJazz Hidden Features Part 1"
     ]
 }
