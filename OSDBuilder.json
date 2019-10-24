@@ -5,9 +5,9 @@
     ],
     "NewLinks":
     [
-        "https://osdbuilder.osdeploy.com/docs/osimport/import-automation",
-        "https://osdbuilder.osdeploy.com/docs/osimport/import-quickupdate",
-        "https://osdbuilder.osdeploy.com/docs/osimport/import-quickbuild"
+        "osdbuilder.osdeploy.com/docs/osimport/import-automation",
+        "osdbuilder.osdeploy.com/docs/osimport/import-quickupdate",
+        "osdbuilder.osdeploy.com/docs/osimport/import-quickbuild"
 
     ],
     "HelpfulLinks":
@@ -18,8 +18,8 @@
     ],
     "LatestUpdates":
     [
-        "19.10.21 MMSJazz Hidden Features Part 2 - GitHub Release",
-        "19.10.18 Windows 10 1909 Support",
-        "19.10.13 MMSJazz Hidden Features Part 1"
+        "19.10.21 MMSJazz Precache Part 2 - GitHub",
+        "19.10.18 Windows 10 1909 Supported",
+        "19.10.13 MMSJazz Precache Part 1"
     ]
 }
