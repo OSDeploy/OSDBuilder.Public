@@ -1,6 +1,6 @@
 {   "Version":  "19.10.18.0",
     "OSDSUS":   "19.10.24.0",
-    "OSD":      "19.10.18.0",
+    "OSD":      "19.10.25.0",
     "PSGallery":
     [
         "http://powershellgallery.com/packages/OSDBuilder/19.10.18.0"
