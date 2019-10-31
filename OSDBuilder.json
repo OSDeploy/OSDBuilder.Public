@@ -1,16 +1,16 @@
 {   "OSD":          "19.10.29.0",
     "OSDSUS":       "19.10.29.0",
-    "OSDBuilder":   "19.10.18.0",
-    "Version":      "19.10.18.0",
+    "OSDBuilder":   "19.10.31.0",
+    "Version":      "19.10.31.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.10.18.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.10.31.0"
     ],
     "NewLinks":
     [
-        "osdbuilder.osdeploy.com/docs/osimport/import-automation",
-        "osdbuilder.osdeploy.com/docs/osimport/import-quickupdate",
-        "osdbuilder.osdeploy.com/docs/osimport/import-quickbuild"
+        "osdbuilder.osdeploy.com/docs/osimport/import-osmedia-update",
+        "osdbuilder.osdeploy.com/docs/osimport/import-osmedia-buildnetfx",
+        "osdbuilder.osdeploy.com/docs/contentpacks/frogger"
 
     ],
     "HelpfulLinks":
@@ -21,6 +21,7 @@
     ],
     "LatestUpdates":
     [
+        "19.10.31 OSDBuilder Halloween Edition",
         "19.10.21 MMSJazz Precache Part 2 - GitHub",
         "19.10.18 Windows 10 1909 Supported",
         "19.10.13 MMSJazz Precache Part 1"
