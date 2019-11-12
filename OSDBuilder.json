@@ -1,10 +1,10 @@
-{   "OSD":          "19.10.29.0",
-    "OSDSUS":       "19.10.29.0",
-    "OSDBuilder":   "19.10.31.1",
-    "Version":      "19.10.31.1",
+{   "OSD":          "19.11.12.2",
+    "OSDSUS":       "19.11.12.0",
+    "OSDBuilder":   "19.11.12.0",
+    "Version":      "19.11.12.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.10.31.1"
+        "http://powershellgallery.com/packages/OSDBuilder/19.11.12.0"
     ],
     "NewLinks":
     [
@@ -21,9 +21,7 @@
     ],
     "LatestUpdates":
     [
-        "19.10.31 OSDBuilder Halloween Edition",
-        "19.10.21 MMSJazz Precache Part 2 - GitHub",
-        "19.10.18 Windows 10 1909 Supported",
-        "19.10.13 MMSJazz Precache Part 1"
+        "19.11.12 MMSJazz Edition",
+        "19.10.31 OSDBuilder Halloween Edition"
     ]
 }
