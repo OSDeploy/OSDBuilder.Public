@@ -1,16 +1,16 @@
 {   "OSD":          "19.11.12.2",
     "OSDSUS":       "19.11.12.0",
-    "OSDBuilder":   "19.11.13.0",
-    "Version":      "19.11.13.0",
+    "OSDBuilder":   "19.11.18.0",
+    "Version":      "19.11.18.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.11.13.0"
+        "http://powershellgallery.com/packages/OSDBuilder/19.11.18.0"
     ],
     "NewLinks":
     [
-        "osdbuilder.osdeploy.com/docs/osimport/import-osmedia-update",
-        "osdbuilder.osdeploy.com/docs/osimport/import-osmedia-buildnetfx",
-        "osdbuilder.osdeploy.com/docs/contentpacks/frogger"
+        "osdbuilder.osdeploy.com/docs/contentpacks",
+        "osdbuilder.osdeploy.com/docs/advanced/osmedia-baseline",
+        "osdbuilder.osdeploy.com/docs/advanced/multilang-baseline"
 
     ],
     "HelpfulLinks":
@@ -21,6 +21,7 @@
     ],
     "LatestUpdates":
     [
+        "19.11.18 Show-OSDBuilderInfo more detailed"
         "19.11.12 MMSJazz Edition",
         "19.10.31 OSDBuilder Halloween Edition"
     ]
