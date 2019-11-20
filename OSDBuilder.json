@@ -8,9 +8,8 @@
     ],
     "NewLinks":
     [
-        "osdbuilder.osdeploy.com/docs/contentpacks",
-        "osdbuilder.osdeploy.com/docs/advanced/osmedia-baseline",
-        "osdbuilder.osdeploy.com/docs/advanced/multilang-baseline"
+        "osdbuilder.osdeploy.com/docs/advanced/settings",
+        "osdbuilder.osdeploy.com/docs/contentpacks"
 
     ],
     "HelpfulLinks":
@@ -23,7 +22,6 @@
     [
         "19.11.20 Resolved Import-OSMedia issue",
         "19.11.18 Show-OSDBuilderInfo more detailed",
-        "19.11.12 MMSJazz Edition",
-        "19.10.31 OSDBuilder Halloween Edition"
+        "19.11.12 MMSJazz Edition"
     ]
 }
