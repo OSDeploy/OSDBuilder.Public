@@ -1,10 +1,10 @@
-{   "OSD":          "19.12.9.0",
+{   "OSD":          "19.12.19.0",
     "OSDSUS":       "19.12.16.0",
-    "OSDBuilder":   "19.12.10.1",
-    "Version":      "19.12.10.1",
+    "OSDBuilder":   "19.12.19.0",
+    "Version":      "19.12.19.0",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/19.12.10.1"
+        "http://powershellgallery.com/packages/OSDBuilder/19.12.19.0"
     ],
     "NewLinks":
     [
@@ -20,6 +20,7 @@
     ],
     "LatestUpdates":
     [
+        "19.12.19 Bug Fixes",
         "19.11.20 Resolved Import-OSMedia issue",
         "19.11.18 Show-OSDBuilderInfo more detailed",
         "19.11.12 MMSJazz Edition"
