@@ -1,10 +1,10 @@
-{   "OSD":          "19.12.19.0",
+{   "OSD":          "20.2.26.1",
     "OSDSUS":       "20.2.25.1",
-    "OSDBuilder":   "20.2.20.1",
+    "OSDBuilder":   "20.2.26.1",
     "Version":      "20.2.20.1",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/20.2.20.1"
+        "http://powershellgallery.com/packages/OSDBuilder/20.2.26.1"
     ],
     "NewLinks":
     [
@@ -20,6 +20,7 @@
     ],
     "LatestUpdates":
     [
+        "20.2.26.1 Support for Insider Windows 10 2004 20H1",
         "20.2.20.1 Gary Blok Edition"
     ]
 }
