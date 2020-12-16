@@ -1,10 +1,10 @@
 {   "OSD":          "20.2.26.1",
     "OSDSUS":       "20.12.10.1",
-    "OSDBuilder":   "20.12.10.1",
+    "OSDBuilder":   "20.12.16.1",
     "Version":      "20.12.10.1",
     "PSGallery":
     [
-        "http://powershellgallery.com/packages/OSDBuilder/20.12.10.1"
+        "http://powershellgallery.com/packages/OSDBuilder/20.12.16.1"
     ],
     "NewLinks":
     [
